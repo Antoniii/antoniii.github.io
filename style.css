@@ -31,3 +31,8 @@ footer {
   text-align: center;
   margin: -3em auto 4em;
 }
+img {
+  display: block;
+  margin: 1ex auto;
+  max-width: 600px;
+}

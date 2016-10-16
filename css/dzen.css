@@ -4,11 +4,11 @@
     left: 50%;
     margin-top: -142.5px;
     margin-left: -145.5px;
-    -webkit-animation: preloader 360s infinite linear;
-    -moz-animation: preloader 360s infinite linear;
-    -ms-animation: preloader 360s infinite linear;
-    -o-animation: preloader 360s infinite linear;
-    animation: preloader 360s infinite linear;
+    -webkit-animation: preloader 8s infinite linear;
+    -moz-animation: preloader 8s infinite linear;
+    -ms-animation: preloader 8s infinite linear;
+    -o-animation: preloader 8s infinite linear;
+    animation: preloader 8s infinite linear;
 }
 
 @-webkit-keyframes preloader {
